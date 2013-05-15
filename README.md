@@ -1,0 +1,4 @@
+VeryCDPlugin
+============
+
+verycd website plugin
