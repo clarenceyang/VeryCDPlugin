@@ -1,0 +1,12 @@
+{
+   "name": "VeryCDPlugin",  
+  "version": "0.1.0",  
+  "author": "Jason Yang",
+  "website": "http://yangxu.me",
+  "description": "Easy for downloading the files on verycd.com",  
+  "page_action": {  
+    "default_icon": "icon.png" ,
+    "default_title": "VeryCDPlugin",
+    "default_popup": "popup.html"
+  } 
+}
